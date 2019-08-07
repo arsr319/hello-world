@@ -1,2 +1,2 @@
-Hello, Welcome to VNC Digital!!
-Its lunch time
+Hello, Welcome to Bangalore
+Its Dinner time
